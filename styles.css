@@ -55,9 +55,12 @@ table {
 
 
 /* Header */
+
 div {
+    
     display: flex;
     justify-content: space-around;
+    margin: 1em;
   }
  h1{
     box-sizing: border-box;
