@@ -62,8 +62,7 @@ div {
     justify-content: space-around;
     margin: 1em;
   }
- h1{
-    box-sizing: border-box;
+ h1 {
     font-size: 30px;
     color:darkgreen;
 }
