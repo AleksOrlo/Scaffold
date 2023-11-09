@@ -48,14 +48,18 @@ table {
 
 /* Base Styles */
 
+* {
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+
+/* Header */
 * h1{
     box-sizing: border-box;
     font-size: 30px;
     color:darkgreen;
 }
-
-
-/* Header */
 
 
 /* Hero */
